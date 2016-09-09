@@ -3,7 +3,7 @@ CSS-ClientLibs: servoynavigation/lib/font-awesome.min.css;name=font-awe
  some.css;version=v4.6.3
 Bundle-SymbolicName: servoynavigation
 Bundle-Name: Servoy Navigation Component
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 Package-Type: Web-Component
 Responsive-Layout: True
 
