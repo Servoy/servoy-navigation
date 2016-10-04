@@ -157,3 +157,18 @@
 		width: auto;
 	}
 }
+
+@media (max-width :992px) { 
+
+	#wrapper {
+		padding-left: 50px;
+	}
+	
+	#wrapper #sidebar-wrapper {
+		width: 50px;
+	}
+	
+	#wrapper #sidebar-wrapper:hover {
+		width: 250px;
+	}
+}
