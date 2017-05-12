@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 CSS-ClientLibs: servoynavigation/lib/font-awesome.min.css;name=font-awe
- some.css;version=v4.6.3
+ some.css;version=4.6.3
 Bundle-SymbolicName: servoynavigation
 Bundle-Name: Servoy Navigation Component
-Bundle-Version: 1.0.2
+Bundle-Version: 1.0.3
 Package-Type: Web-Component
 Responsive-Layout: True
 
